@@ -1,0 +1,31 @@
+.indicator-caution
+{
+	background-color: rgba(183, 183, 183, 0.3);
+	border-radius: 1em;
+}
+
+.resource-title
+{
+	font-weight: bold;
+}
+
+.right-label
+{
+	text-align: right;
+}
+
+.item-label
+{
+    min-width: 8em;
+    max-width: 12em;
+}
+
+.bytes-text {
+    min-width: 4em;
+    text-align: right;
+}
+
+.meter-area-container {
+    max-width: 1800px;
+    max-height: 1000px;
+}
