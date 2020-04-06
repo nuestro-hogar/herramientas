@@ -1,0 +1,8 @@
+# WebStorm configuration files
+/.idea/
+
+# Project build directories
+/bin
+/build
+/share
+/tools

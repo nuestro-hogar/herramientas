@@ -1,0 +1,7 @@
+{
+  "include_paths": [
+    "./spec/stub/ui",
+    "./spec/stub",
+    "./System_Monitor@bghome.gmail.com"
+  ]
+}
